@@ -117,8 +117,8 @@ This project is licensed under the **MIT License** — feel free to modify and s
 ## 📬 Contact
 
 For suggestions or collaborations, feel free to reach out:
-- **Email:** you@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **Email:** mrravi63bgp@gmail.com
+- **GitHub:** [@psychoraa](https://github.com/psychoraa)
 
 ---
 
