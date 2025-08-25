@@ -31,7 +31,7 @@ A sleek, fast, and responsive single-page OSINT (Open Source Intelligence) tools
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/yourusername/osint-tools-directory.git
+git clone https://github.com/psychoraa/osint-tools-directory.git
 cd osint-tools-directory
 ```
 
